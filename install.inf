@@ -1,0 +1,5 @@
+[info]
+title=Linter for PHP, using PHPMD
+desc=Linter for CudaLint, adds support for PHP lexer, using PHPMD
+type=cudatext-plugin
+subdir=cuda_lint_phpmd
